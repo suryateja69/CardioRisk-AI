@@ -1,5 +1,13 @@
 # ❤️ CardioRisk AI
 
+## 🌐 Live Demo
+
+https://cardiorisk-ai-xc5pviborl9aefryzwnnjq.streamlit.app/
+
+## 📂 GitHub Repository
+
+https://github.com/suryateja69/CardioRisk-AI
+
 CardioRisk AI is a machine learning-based heart disease risk assessment web application built using Python, Scikit-learn, and Streamlit.
 
 ## 🚀 Features
